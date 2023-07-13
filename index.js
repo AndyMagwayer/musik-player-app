@@ -15,21 +15,21 @@ const music = new Audio();
 const songs = [
     {
         path: 'assets/1.mp3',
-        displayName: 'The Charmer\'s Call',
-        cover: 'assets/1.jpg',
-        artist: 'Hanu Dixit',
+        displayName: 'IVL',
+        cover: 'assets/1.jpeg',
+        artist: 'MACAN, SCIRENA ',
     },
     {
         path: 'assets/2.mp3',
-        displayName: 'You Will Never See Me Coming',
+        displayName: 'Shamol',
         cover: 'assets/2.jpg',
-        artist: 'NEFFEX',
+        artist: 'Tohir Sodiqov ',
     },
     {
         path: 'assets/3.mp3',
-        displayName: 'Intellect',
+        displayName: 'Черный Человек',
         cover: 'assets/3.jpg',
-        artist: 'Yung Logos',
+        artist: 'Руслан Добрый feat. Tural Everest',
     }
 ];
 
